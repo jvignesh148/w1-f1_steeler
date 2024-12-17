@@ -2,7 +2,7 @@
 
 Disclaimer:
 
-  It is only for educational purposes. Don't use it to harm others.
+  ⚠️⚠️It is only for educational purposes. Don't use it to harm others.⚠️⚠️
 
   
 Installation:
