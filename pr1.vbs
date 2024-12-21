@@ -4,9 +4,9 @@ Set objFSO = CreateObject("Scripting.FileSystemObject")
 
 ' 👉 Define the Wi-Fi network name and Notepad file name
 Dim wifiName
-wifiName = "Vinoth"
+wifiName = "<your-target-wifi-name>"
 Dim notepadFileName
-notepadFileName = "document.txt"
+notepadFileName = "<document-name>.txt"
 
 ' 👉 Create the object for sending keys
 Set x = CreateObject("WScript.Shell")
